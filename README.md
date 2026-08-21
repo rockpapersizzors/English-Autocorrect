@@ -6,10 +6,12 @@ The Damerau-Levenshtein distance measures how different two text strings are by 
 
 # How to Run the program 
 There is a cmake script which lets it run anywhere 
-
+```cmake
 cmake -B build
 cmake --build build
 ./build/autocorrect
-
+```
+# Deployment
+[[Video Demonstration ](https://youtu.be/tSnp6iC_QUc)](https://youtu.be/Aq5WXmQQooo)
 
 
