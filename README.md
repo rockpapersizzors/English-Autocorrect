@@ -12,6 +12,7 @@ cmake --build build
 ./build/autocorrect
 ```
 # Deployment
-[[Video Demonstration ](https://youtu.be/tSnp6iC_QUc)](https://youtu.be/Aq5WXmQQooo)
+[![Video Demonstration](https://youtube.com)](https://youtu.be/Aq5WXmQQooo)
+
 
 
